@@ -145,11 +145,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is open source and available under the MIT License.
-
-## Support
-
-For support, email support@skillswap.com or open an issue in the GitHub repository.
-
----
-
-Made with ❤️ by the SkillSwap Team
